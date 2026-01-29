@@ -133,4 +133,4 @@ This project highlights how **Power BI, DAX, and data visualization** can transf
 ---
 
 ## Author  
-**Ashmithaa Pradeep** - Data Analytics Project  
+**Ashmithaa Pradeep** - Data Analytics & Data Science
